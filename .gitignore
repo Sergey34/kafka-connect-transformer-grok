@@ -1,9 +1,4 @@
 # Project exclude paths
 /target/
-Будет удалено .idea/$PRODUCT_WORKSPACE_FILE$
-Будет удалено .idea/.gitignore
-Будет удалено .idea/compiler.xml
-Будет удалено .idea/encodings.xml
-Будет удалено .idea/misc.xml
-Будет удалено kafka-connect-grok.iml
-Будет удалено src/main/resources/
+.idea
+.iml
